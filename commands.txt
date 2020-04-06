@@ -1,0 +1,5 @@
+1. Run Android Studio
+2. Start Virtual Device
+3. Close Android Studio but keep Virtual Device open
+4. run "npm run dev-android"
+5. Code away :)
